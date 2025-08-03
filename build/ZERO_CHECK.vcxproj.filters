@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\build\CMakeFiles\2203417030e67d61666f1e33fa79f439\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{050B268E-36BA-3F71-A643-105531E6518C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\bencode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\torrent_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\peer_connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8E52D0C-7ABC-3320-B539-4B2238BE38FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

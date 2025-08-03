@@ -1,0 +1,10 @@
+^C:\USERS\PRIYSNDHU\ONEDRIVE\DESKTOP\BITTORRENT\BITTORRENT-CLIENT\SRC\BUILD\CMAKEFILES\2203417030E67D61666F1E33FA79F439\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Priysndhu/OneDrive/Desktop/Bittorrent/Bittorrent-client/src -BC:/Users/Priysndhu/OneDrive/Desktop/Bittorrent/Bittorrent-client/src/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Priysndhu/OneDrive/Desktop/Bittorrent/Bittorrent-client/src/build/BitTorrentClient.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

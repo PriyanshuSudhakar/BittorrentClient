@@ -1,0 +1,3 @@
+C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\build\Debug\libcurl.dll
+C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\build\Debug\zlib1.dll
+C:\Users\Priysndhu\OneDrive\Desktop\Bittorrent\Bittorrent-client\src\build\your_client.dir\Debug\your_cli.9758DC57.Up2Date

@@ -1,0 +1,3 @@
+C:/Users/Priysndhu/OneDrive/Desktop/Bittorrent/Bittorrent-client/src/build/CMakeFiles/your_client.dir
+C:/Users/Priysndhu/OneDrive/Desktop/Bittorrent/Bittorrent-client/src/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Priysndhu/OneDrive/Desktop/Bittorrent/Bittorrent-client/src/build/CMakeFiles/ZERO_CHECK.dir
